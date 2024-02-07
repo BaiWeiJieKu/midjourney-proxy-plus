@@ -1,7 +1,8 @@
 # midjourney-proxy
 
 代理 MidJourney 的discord频道，实现api形式调用AI绘图
-魔改自https://github.com/novicezk/midjourney-proxy，谢谢原作者的伟大付出
+魔改自https://github.com/novicezk/midjourney-proxy
+谢谢原作者的伟大付出
 
 ## 主要功能
 - [x] 支持 Imagine 指令和相关动作
