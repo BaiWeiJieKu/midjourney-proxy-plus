@@ -4,8 +4,8 @@ mj:
     timeout: 30d
   translate-way: null
   discord:
-    guild-id: 1197143389162967080
-    channel-id: 1197483169935527936
-    user-token: NDI2NTgwNDA5NjY1NzE2MjM1.Gvhaib.G8WASfcv3LLmHCdS1-dijzmby5yTOWhRluQsoE
+    guild-id:
+    channel-id:
+    user-token:
 
 
